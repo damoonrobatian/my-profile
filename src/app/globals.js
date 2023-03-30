@@ -1,2 +1,2 @@
-export const MY_NAME = "Bobby Connolly" // put your name here
-export const MY_EMAIL = "bobbyconnolly@gmail.com" // put your email here
+export const MY_NAME = "Damoon Robatian" // put your name here
+export const MY_EMAIL = "damoon.robatian@gmail.com" // put your email here
